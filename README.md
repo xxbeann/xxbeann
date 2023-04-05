@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1><b>Hi there 👋</b></h1>
 
 <!--
 **xxbeann/xxbeann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +22,6 @@ pinned repo 보기좋게 정렬하기
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 -->
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxbeann&show_icons=true&theme=radical)
-</p>
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxbeann)
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxbeann&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxbeann)
