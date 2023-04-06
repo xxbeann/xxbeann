@@ -1,5 +1,4 @@
-
-<h1><b>Hi there 👋</b></h1>
+# Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxbeann&show_icons=true&theme=radical)
 
