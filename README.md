@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bean
+# Bean 🌻
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxbeann&show_icons=true&theme=radical)
