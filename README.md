@@ -30,6 +30,7 @@
      <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> 
      <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
      <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> 
+     <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/
  </p>
 
 </div>
