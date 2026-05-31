@@ -9,16 +9,9 @@
 기술은 단순한 암기가 아닌 온전한 '이해'가 된다고 믿습니다.<br>
 이러한 맥락을 바탕으로 도구의 본질을 파악하며 문제를 해결해 나갑니다.
 
-<!-- <br>
-
-<p align="center">
-  <img src="https://github-readme-stats-sandy-nine.vercel.app/api?username=xxbeann&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sandy-nine.vercel.app/api/top-langs/?username=xxbeann&langs_count=10&theme=radical&hide_border=true&layout=compact" width="48%" />
-</p>
-
 </div>
 
-<br> -->
+<br>
 
 ## 🛠️ Tech Stack
 
