@@ -48,9 +48,6 @@
 | :--- | :--- |
 | **Boss Effector** | AI (query-bandit) 기반 음악 기타 트랙 추출 및 이펙터 파라미터 분석 웹 서비스 |
 | **Sec-FTP** | Diffie-Hellman 및 AES 암호화를 적용한 보안 FTP 서버 및 클라이언트 |
-| **Interview Snack** | Vanilla JS로 개발한 CS 면접 대비 질문 등록 및 카테고리 필터링 웹 애플리케이션 |
-| **My Fitness Log** | 잔디 심기 UI를 적용한 헬스 및 러닝 기록 웹앱 |
-| **냉털 (Naeng-Teol)** | 자취생을 위한 보유 재료 기반 레시피 추천 서비스 |
 
 <br>
 
