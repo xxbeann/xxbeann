@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm JeongKong 🫘
+# 🫘 Hello, I'm JeongKong 🫘
 
 ### "기술의 탄생 배경과 철학을 이해하며 성장하는 백엔드 개발자"
 
@@ -9,7 +9,7 @@
 기술은 단순한 암기가 아닌 온전한 '이해'가 된다고 믿습니다.<br>
 이러한 맥락을 바탕으로 도구의 본질을 파악하며 문제를 해결해 나갑니다.
 
-<br>
+<!-- <br>
 
 <p align="center">
   <img src="https://github-readme-stats-sandy-nine.vercel.app/api?username=xxbeann&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -18,7 +18,7 @@
 
 </div>
 
-<br>
+<br> -->
 
 ## 🛠️ Tech Stack
 
