@@ -59,7 +59,3 @@
   - I-School 플랫폼 개발 참여 및 FastAPI 기반 백엔드 API 연동
 - **2025 LLM Safety Challenge**
   - 2위 우수상 (한국정보처리학회 주최)
- 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxbeann&theme=radical&margin-w=15" />
-</a>
