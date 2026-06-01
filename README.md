@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🫘 Hello, I'm JeongKong 🫘
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20JeongKong&fontSize=50" />
 
 ### "기술의 탄생 배경과 철학을 이해하며 성장하는 백엔드 개발자"
 
